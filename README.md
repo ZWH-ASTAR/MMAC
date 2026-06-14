@@ -148,11 +148,11 @@ The dataset is released under the **CC BY 4.0** license. Please check the Huggin
 If you use MMAC-Bench in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{yourbibkey2026mmacbench,
-  title     = {MMAC-Bench: A Multimodal Multilingual Asian Cultural Benchmark},
-  author    = {Author One and Author Two and Author Three},
-  booktitle = {Proceedings of XXX},
-  year      = {2026}
+@article{zheng2025mma,
+  title={MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation},
+  author={Zheng, Weihua and Liu, Zhengyuan and Chakraborty, Tanmoy and Xu, Weiwen and Gao, Xiaoxue and Tan, Bryan Chen Zhengyu and Zou, Bowei and Liu, Chang and Hu, Yujia and Xie, Xing and others},
+  journal={arXiv preprint arXiv:2510.08608},
+  year={2025}
 }
 ```
 
