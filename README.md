@@ -1,6 +1,6 @@
 # MMAC-Bench: A Multimodal Multilingual Asian Cultural Benchmark
 
-Official repository for **MMAC-Bench**, a multimodal and multilingual benchmark for evaluating cultural understanding and reasoning in vision-language and language models.
+Official repository for **MMAC-Bench**, a multimodal and multilingual benchmark for evaluating cultural understanding and reasoning in LLMs.
 
 The dataset is hosted on Hugging Face:
 
