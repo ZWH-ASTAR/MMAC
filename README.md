@@ -8,7 +8,7 @@ The dataset is hosted on Hugging Face:
 
 ## Overview
 
-MMAC-Bench is designed to evaluate model performance on culturally grounded question answering across multiple Asian regions and languages. The benchmark contains both text-only and multimodal examples, including image-based questions and audio-related resources.
+MMAC-Bench is designed to evaluate model performance on culturally grounded question answering across 8 Asian regions and 10 languages. The benchmark contains both text-only and multimodal examples, including image-based questions and audio-related resources.
 
 The dataset includes two splits:
 
